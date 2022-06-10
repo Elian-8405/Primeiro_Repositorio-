@@ -1,0 +1,2 @@
+1 - O git foi criado pelo mesmo criador do linux, é ultizado como um sistema de controle de versão distribuído.
+2 - GitHub funciona como um sistema de nuvem para gaurdar códigos entre outro arquivos atraves de "commints"
